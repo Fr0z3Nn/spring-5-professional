@@ -1,4 +1,4 @@
-package ru.project.spring5.chapter2;
+package ru.project.spring5.chapter2.part2;
 
 public class HelloWorldWithCommandLine {
     public static void main(String[] args) {

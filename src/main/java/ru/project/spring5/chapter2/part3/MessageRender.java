@@ -1,4 +1,6 @@
-package ru.project.spring5.chapter2;
+package ru.project.spring5.chapter2.part3;
+
+import ru.project.spring5.chapter2.part3.MessageProvider;
 
 public interface MessageRender {
     void render();

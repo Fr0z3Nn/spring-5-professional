@@ -71,7 +71,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        ru.project.spring5.chapter2.HelloWorldWithCommandLine
+                                        ru.project.spring5.chapter2.part2.HelloWorldWithCommandLine
                                     </mainClass>
                                 </manifest>
                             </archive>
