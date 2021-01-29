@@ -1,6 +1,6 @@
 package ru.project.spring5.chapter2.part3;
 
-public class StandardOutMessageRenderer implements MessageRender{
+public class StandardOutMessageRenderer implements MessageRenderer {
 
     private MessageProvider messageProvider;
 
